@@ -13,15 +13,25 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 ### AP Liturature
 - Everyone who takes this class loves it, but be aware that becuase it comes *after* AP Language, people who take this class know they like English already
 ## 5-7/10 - If you're Interested
-## 0-4/10 - If you have to and I guess...
-
-
-AP Language
-AP Spanish, Japanese, Chinese
-AP Calculus AB
-AP Calculus BC
-AP Physics
-AP Chemistry 
+### AP United States History
+- This class is higher rated in the category becuase looking back people are glad that they took it but in the moment, when you are writing that DBQ, it does not feel like it
+### AP Calculus AB
+- People seem to only *enjoy* this more becuase they are just glad they are not suffering as much as the students in BC
+### AP Spanish, Japanese, Chinese
+- Really depends on your own level of fluency in the language
+- This choice of class should be your own descision as you know your own level in the language
+- Lots of writing in preparation for the test 
+## 0-4/10 - If you have to I guess...
+### AP English Language
+- This might just be a personal preference but most classmates enjoyed the fictional aspect of Liturature better than Language
+### AP Calculus
+- I have personally heard nothing but complaints
+### AP Chemistry 
 AP Biology
-AP US History
-AP Human Geography
+
+## Not enough Information
+These are classes that not many people take so I cannot accuratly rank them
+### AP Physics
+### AP Human Geography
+
+
