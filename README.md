@@ -5,13 +5,13 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 ### AP Computer Science Principles
 - This class received ranking of only 9s and 10s
 - "It's Fun" - Kylie Wang
-### AP Statistics
+- ### AP Statistics
 - The best math class you will take and very useful
 - This high ranking does **NOT** mean the class is easy, you **must** put in the work to succeed
 ### AP Psychology 
 - A great for sophmores as a starter AP class or for seniors looking for a more relaxed class.
 - Certain topics could be boring at times but over all is a very interesting class.
-### AP Liturature
+### AP Literature
 - Everyone who takes this class loves it, but be aware that becuase it comes *after* AP Language, people who take this class know they like English already
 ## 5-7/10 - If you're Interested
 ![meme](https://i.imgur.com/9Zv4WMv.png)
