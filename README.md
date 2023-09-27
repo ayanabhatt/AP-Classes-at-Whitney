@@ -1,6 +1,7 @@
 # Ranking of AP classes at Whitney 2023
 This website is a ranking of AP classes at Whitney based on ratings out of 10 from my classmates. Here is the [course catalog](https://4.files.edl.io/c55b/07/06/23/163948-12684ae2-ceb9-485d-aba6-57f14e48a8ae.pdf) for this year.
 ## 8-10/10 - Highly Recommend
+![A funny meme]!(https://sydneydraperrock.weebly.com/uploads/8/0/6/5/80651694/7913599.jpg)
 ### AP Computer Science Principles
 - This class received ranking of only 9s and 10s
 - "It's Fun" - Kylie Wang
@@ -22,15 +23,16 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 - This choice of class should be your own descision as you know your own level in the language
 - Lots of writing in preparation for the test 
 ## 0-4/10 - If you have to I guess...
+![A funny meme]!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fi%2F5qc4h8&psig=AOvVaw2Krjgc939Q54PLaOdwGIWO&ust=1695913885842000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCICx8eCJy4EDFQAAAAAdAAAAABAI)
 ### AP English Language
 - This might just be a personal preference but most classmates enjoyed the fictional aspect of Liturature better than Language
 ### AP Calculus
 - I have personally heard nothing but complaints
-### AP Chemistry 
-AP Biology
-
+### AP Chemistry / AP Biology
+- This is similar to the AP Foreign Languages as it depends how adept you are at the subject
+- The reason it is in a lower tier is becuase if you choose to take it and are not that skilled in it, it takes more work to keep up with the material
 ## Not enough Information
-These are classes that not many people take so I cannot accuratly rank them
+These are classes that not many people take and I have not taken so I cannot accurately rank them.
 ### AP Physics
 ### AP Human Geography
 
