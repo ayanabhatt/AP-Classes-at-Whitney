@@ -13,7 +13,7 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 ### AP Liturature
 - Everyone who takes this class loves it, but be aware that becuase it comes *after* AP Language, people who take this class know they like English already
 ## 5-7/10 - If you're Interested
-## 0-4/10 - If you have to and you do not care about your Sanity
+## 0-4/10 - If you have to and I guess...
 
 
 AP Language
