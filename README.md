@@ -1,7 +1,7 @@
 # Ranking of AP classes at Whitney 2023
 This website is a ranking of AP classes at Whitney based on ratings out of 10 from my classmates. Here is the [course catalog](https://4.files.edl.io/c55b/07/06/23/163948-12684ae2-ceb9-485d-aba6-57f14e48a8ae.pdf) for this year.
 ## 8-10/10 - Highly Recommend
-![A funny meme]!(https://sydneydraperrock.weebly.com/uploads/8/0/6/5/80651694/7913599.jpg)
+![A funny meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5MpW1YSzkMuV9C5SjHqo2M9MLB7gccgXTfIyQA7CElpsRrucI772yk6Odrztx9IhoIQ&usqp=CAU)
 ### AP Computer Science Principles
 - This class received ranking of only 9s and 10s
 - "It's Fun" - Kylie Wang
@@ -14,6 +14,7 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 ### AP Liturature
 - Everyone who takes this class loves it, but be aware that becuase it comes *after* AP Language, people who take this class know they like English already
 ## 5-7/10 - If you're Interested
+![meme](https://i.imgur.com/9Zv4WMv.png)
 ### AP United States History
 - This class is higher rated in the category becuase looking back people are glad that they took it but in the moment, when you are writing that DBQ, it does not feel like it
 ### AP Calculus AB
@@ -23,7 +24,7 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 - This choice of class should be your own descision as you know your own level in the language
 - Lots of writing in preparation for the test 
 ## 0-4/10 - If you have to I guess...
-![A funny meme]!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fi%2F5qc4h8&psig=AOvVaw2Krjgc939Q54PLaOdwGIWO&ust=1695913885842000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCICx8eCJy4EDFQAAAAAdAAAAABAI)
+![A funny meme](https://i.imgflip.com/5qc4h8.jpg)
 ### AP English Language
 - This might just be a personal preference but most classmates enjoyed the fictional aspect of Liturature better than Language
 ### AP Calculus
