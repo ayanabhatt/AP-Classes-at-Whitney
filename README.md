@@ -27,7 +27,7 @@ This website is a ranking of AP classes at Whitney based on ratings out of 10 fr
 ![A funny meme](https://i.imgflip.com/5qc4h8.jpg)
 ### AP English Language
 - This might just be a personal preference but most classmates enjoyed the fictional aspect of Liturature better than Language
-### AP Calculus
+### AP Calculus BC
 - I have personally heard nothing but complaints
 ### AP Chemistry / AP Biology
 - This is similar to the AP Foreign Languages as it depends how adept you are at the subject
